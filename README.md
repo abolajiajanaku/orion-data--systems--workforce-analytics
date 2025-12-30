@@ -8,6 +8,9 @@ Determine how many employees work in each department and identify the department
 ## Insight:
 This analysis highlights workforce concentration across departments and helps management understand staffing distribution.
 
+
+
+
 ### Salary Comparison
 ## Objective:
 Calculate the average salary per department and identify the departments with the highest and lowest average salaries.
@@ -17,6 +20,9 @@ Calculate the average salary per department and identify the departments with th
 -	Sorted results to find the highest and lowest averages.
 ## Insight:
 This reveals salary disparities across departments and can inform compensation reviews.
+
+
+
 
 ### Salary Bands for Employees
 ## Objective:
@@ -31,6 +37,8 @@ Classify employees into salary bands and count how many fall into each category:
 ## Insight:
 This helps HR understand salary distribution and workforce seniority levels.
 
+
+
 ### Country-Level Analysis
 ## Objective:
 List all countries where Orion Data Systems operates and show the number of departments in each country.
@@ -40,6 +48,8 @@ List all countries where Orion Data Systems operates and show the number of depa
 -	Counted departments per country.
 ## Insight:
 Provides visibility into the company’s geographical footprint and operational spread.
+
+
 
 
 ### High Earners
@@ -52,6 +62,8 @@ Identify employees earning more than the company-wide average salary.
 Helps identify top earners and potential leadership or specialist roles.
 
 
+
+
 ### Job Role Analysis
 ## Objective:
 Calculate the average salary for each job title and identify roles with an average salary above 12,000.
@@ -60,6 +72,8 @@ Calculate the average salary for each job title and identify roles with an avera
 -	Applied HAVING to filter job roles above the salary threshold.
 ## Insight:
 Highlights high-value roles within the organization.
+
+
 
 
 ### Salary Growth Trend (Country-Level)
@@ -71,6 +85,8 @@ Calculate the total salary cost per country and rank countries by total salary e
 -	Ordered results from highest to lowest.
 ## Insight:
 Shows where payroll costs are highest geographically, aiding financial planning.
+
+
 
 
 ### Workforce Gaps
